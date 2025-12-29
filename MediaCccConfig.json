@@ -9,8 +9,6 @@
     "version": 1,
     "iconUrl": "https://raw.githubusercontent.com/myryk31415/grayjay-media.ccc-plugin/main/MediaCccLogo.png",
     "id": "ccc221a2-4845-4ecf-9fa4-8b12958d2455",
-    "scriptSignature": "<ommitted>",
-    "scriptPublicKey": "<ommitted>",
     "packages": [
         "Http"
     ],
